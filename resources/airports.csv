@@ -1,0 +1,11 @@
+Airport code,Airport name,Time zone
+PDX,"Portland, Oregon International Airport",America/Los_Angeles
+FRA,Frankfurt Airport,Europe/Berlin
+LGW,London Gatwick Airport,Europe/London
+BOS,Logan International Airport,America/New_York
+LAX,Los Angeles International Airport,America/Los_Angeles
+SLC,Salt Lake City International Airport,America/Denver
+SEA,Seattle-Tacoma International Airport,America/Los_Angeles
+SFO,San Francisco International Airport,America/Los_Angeles
+DEL,"""Indira Gandhi"" International Airport",Asia/Kolkata
+BWI,Baltimore-Washington International Airport,America/New_York

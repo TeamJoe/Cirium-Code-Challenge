@@ -1,0 +1,8 @@
+Airport code,Airport name,Time zone,Extra Column
+MissingColumn,"Portland, Oregon International Airport",America/Los_Angeles
+ExtraColumn,Still ""Validish"",America/Los_Angeles,Value,Value
+NoTimeZone,No Zone
+EmptyZone,Empty Zone,
+InvalidZone,"Invalid ""Zone""",Not Valid Zone
+JustCode
+,"No Code",
